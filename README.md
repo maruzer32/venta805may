@@ -3,7 +3,7 @@
 Sitio web profesional de alta conversión diseñado para la venta directa de una propiedad residencial. 
 Desarrollado bajo metodología ágil enfocado en la velocidad de carga y adaptabilidad total.
 
-🚀 **Ver proyecto en vivo:** https://github.io
+🚀 **Ver proyecto en vivo:** [https://github.io](https://maruzer32.github.io/venta805may/)
 
 ## 🛠️ Tecnologías Utilizadas
 * **HTML5 y CSS3:** Estructuración limpia y maquetación personalizada.
